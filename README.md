@@ -19,7 +19,7 @@ To run the Digestrack application locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/digestrack.git
+   git clone https://github.com/irawandwiarno/Digestrack.git
    ```
 2. Navigate to the project directory:
    ```bash
