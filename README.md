@@ -35,7 +35,6 @@ To run the Digestrack application locally, follow these steps:
 
 1. Launch the application.
 2. Select the type of card you wish to draw (Challenge or Special).
-3. Tap or click to randomly generate a card.
-4. Use the generated card in your Digestrack board game session.
+3. Use card in your Digestrack board game session.
 
 
